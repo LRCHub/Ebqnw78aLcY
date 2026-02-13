@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ルキ×ルキ",
+  "base_artist": "ROOKEY♡ROOKEYS",
+  "createdAt": "2026-02-13T23:42:17.311048Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルキ×ルキ",
+      "artist": "ROOKEY♡ROOKEYS",
+      "has_synced": false,
+      "path": "select/pl_01_ルキ×ルキ_ROOKEY♡ROOKEYS.txt"
+    }
+  ]
+}
